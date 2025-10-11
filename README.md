@@ -93,40 +93,10 @@ Using *SigLIP embeddings*, the system compares the text prompt and detected peop
 
 ---
 
-🧠 Author
+## 🧠 Author
 
-Mohammad Ziaee
-📧 moha2012zia@gmail.com
-🌐 GitHub Profile
-
-
+*Mohammad Ziaee*  
+📧 [moha2012zia@gmail.com](mailto:moha2012zia@gmail.com)  
+🌐 [GitHub Profile](https://github.com/ziaee-mohammad)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
